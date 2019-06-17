@@ -1,0 +1,12 @@
+h1 { color: white; }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+}
+
+.email-holder {
+  margin-left: 10px;
+}
